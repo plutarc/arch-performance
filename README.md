@@ -1,2 +1,2 @@
 # arch-performance
-Kernal performance tweaks. 
+Arch Linux mostly kernal performance tweaks for sysctl, tmpfile changes and udev rules. 
